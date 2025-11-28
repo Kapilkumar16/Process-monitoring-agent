@@ -191,12 +191,3 @@ process-monitor/
 
 ---
 
-## License
-
-MIT License
-
----
-
-## Contact
-
-For questions, contact Avinash Anshu.
