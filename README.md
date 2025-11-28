@@ -11,7 +11,8 @@ The system consists of:
 - **Frontend**: Web UI showing process hierarchy with expandable subprocesses, real-time updates, filters, and visualizations.
 
 ---
-![Uploading Screenshot 2025-11-25 231125.png…]()
+<img width="1877" height="905" alt="Screenshot 2025-11-25 231125" src="https://github.com/user-attachments/assets/6886c4b0-ebad-456f-9014-1bd432010f42" />
+
 
 
 ## Features
